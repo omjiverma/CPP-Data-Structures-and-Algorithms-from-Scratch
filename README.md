@@ -9,7 +9,7 @@ A comprehensive collection of 📄 notes, 💻 code implementations, and 📚 st
 - [📜 License](#license)
 
 ## 🔍 Introduction
-Welcome to my Data Structures and Algorithms (DSA) repository! This is a personal project where I document my study journey as I learn and practice various DSA concepts. The content here includes notes, code implementations, and references to resources that have helped me understand DSA better.
+Welcome to my Data Structures and Algorithms (DSA) repository! This is a personal project where I document my study journey as I learn and practice various DSA concepts. The content here includes notes, code implementations in C, and references to resources that have helped me understand DSA better.
 
 ## ❓ Why This Repository?
 - To serve as a reference for myself and others who are learning DSA.
@@ -35,19 +35,5 @@ Welcome to my Data Structures and Algorithms (DSA) repository! This is a persona
   - 💡 Greedy Algorithms
 
 
-## 🚀 Getting Started
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/omjiverma/DSA-Journey.git
-    ```
-2. **Navigate to the directory:**
-    ```bash
-    cd 
-    ```
-3. **Explore the folders and files to access notes and code examples.**
 
- <! --- ## 🤝 Contributing
- <! --- Contributions are welcome! If you'd like to add or improve content, please fork the repository and submit a pull request. Follow the existing format and structure for consistency.
 
- <! --- ## 📜 License
- <! --- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
